@@ -20,5 +20,5 @@ To build this deploy, simply use
 
 ## Demo 🚀
 
-https://nogitbr.github.io/intagramclone/
+https://YuriRDev.github.io/intagramclone
 
