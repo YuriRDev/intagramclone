@@ -9,9 +9,11 @@
 
 ## Build 🚧
 
-To build this deploy, simply use 
+To build, simply use 
 
 ```bash
+  yarn install
+  // and then:
   yarn build
 ```
 
