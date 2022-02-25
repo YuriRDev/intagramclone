@@ -13,7 +13,8 @@ To build, simply use
 
 ```bash
   yarn install
-  // and then:
+```
+```bash
   yarn build
 ```
 
